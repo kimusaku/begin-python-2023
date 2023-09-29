@@ -5,7 +5,7 @@ format: jb-book
 root: intro
 chapters:
   - file: lecture01
-# - file: lecture02
+  - file: lecture02
 # - file: lecture03
 # - file: lecture04
 # - file: lecture05
